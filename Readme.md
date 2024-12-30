@@ -1,16 +1,17 @@
-Paper-Scissors-Rock in chinese
+# Paper-Scissors-Rock in chinese
+website link: https://yukl-c.github.io/RockPaperScissors/index.html
 
-# Naming
+### Naming
 Paper = 包
 Scissors = 剪
 Rock = 揼
 
-# Rules of Paper-Scissors-Rock
+### Rules of Paper-Scissors-Rock
 Rock crushes Scissors. (Rock wins)
 Scissors cuts Paper. (Scissors wins)
 Paper covers Rock. (Paper wins)
 
-# How to play in this website
+### How to play in this website
 1. players choose one of the three buttons of gestures in Paper-Scissors-Rock
 2. If the player wins against the computer, they gain one point. 
 3. If the player loses to the computer, the computer gains one point.
