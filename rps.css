@@ -72,9 +72,8 @@ body {
 }
 
 .disabled {
-	background-color: grey;
-}
-
-.disabled:hover {
-	background-color: grey;
+	opacity: 0.5;
+	/* Make the element look disabled */
+	pointer-events: none;
+	/* Prevent any mouse events */
 }
