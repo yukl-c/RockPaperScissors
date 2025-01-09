@@ -35,7 +35,7 @@ body {
 	right: -50px !important;
 }
 
-.choice{
+.choices{
 	display: inline-block;
 	border:5px solid #B5B2CD;
 	border-radius: 50%;
@@ -43,7 +43,7 @@ body {
 	background-color: white;
 	transition: 0.3s ease-in;
 }
-.choice:hover{
+.choices:hover{
 	cursor: pointer;
 	background-color: #f5f5dc;
 }
@@ -58,4 +58,15 @@ body {
 
 #start-again:hover {
     background-color: greenyellow;
+	color: grey;
+}
+
+#showRounds {
+	font-size: 20px;
+}
+
+#result {
+	padding: 30px;
+	color: red;
+	font-size: 30px;
 }
