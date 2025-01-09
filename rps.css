@@ -72,5 +72,9 @@ body {
 }
 
 .disabled {
-	color: grey;
+	background-color: grey;
+}
+
+.disabled:hover {
+	background-color: grey;
 }
